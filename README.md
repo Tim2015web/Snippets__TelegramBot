@@ -1,14 +1,14 @@
-# StartTemplate_gulp
+# Snippets - Telegram Bot
 
-[Show the project](https://tim2015web.github.io/StartTemplate_gulp/)
+[Show the project](https://tim2015web.github.io/Snippets__TelegramBot/)
 
-Layout. StartTemplate_gulp
+Sending a Message to Telegram Bot
 
 ---
 
-[Показать проект](https://tim2015web.github.io/StartTemplate_gulp/)
+[Показать проект](https://tim2015web.github.io/Snippets__TelegramBot/)
 
-Вёрстка. StartTemplate_gulp
+Отправка сообщения в телеграм бот.
 
 ---
 
